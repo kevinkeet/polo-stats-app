@@ -1,0 +1,228 @@
+{
+  "id": "4dcf02d0-0ddb-423d-954e-0e8791ee1037",
+  "opponent": "meredith",
+  "date": "2025-07-18",
+  "events_text": "Opening sprint\u2014Sequoia Drake wins it for Santa Cruz and passes back to Sage Steller-Croll. Sage moves it up to Grace Graessle at point. Grace fakes, then dishes right to Inaya Stojanovic on the wing. Inaya lobs it to Violet Rubin, who is posting up. Violet spins, shoots\u2014blocked! The goalie tips it out, but Kate Solomon recovers the rebound.\n\nKate resets up top, finds Charlotte Morrow. Charlotte quickly passes to Mary Suarez-Abraham, who\u2019s unguarded at five meters\u2014Mary shoots\u2014Goal! Santa Cruz goes up 1\u20130, assist to Charlotte.\n\nOpponents counter, but Isabella Bridi-Milligan gets the steal on defense. She outlets to Alida Keet, who swims it up the left side. Alida looks for a cross pass, finds Kiki Burke on the opposite wing. Kiki with a quick pass inside to Sequoia\u2014Sequoia turns, draws an exclusion. Santa Cruz up a player.\n\nPower play: Elizabeth Penny to Sage, Sage to Alida, back to Sage, down to Isabella. Isabella fires it into the post\u2014Grace tips it in\u2014Goal! Great quick pass and finish. Assist Isabella, goal Grace.\n\nOpponents pressure hard, but Ava Johnson comes up with a big field block. Ava pushes the ball forward, sends a long pass to Kate Solomon on the counter. Kate drives, draws a foul, resets, finds Kiki. Kiki swings to Charlotte, Charlotte to Violet at two meters\u2014Violet is double-teamed, but manages a backhand\u2014Goal! Violet Rubin, tough finish, assist Charlotte.\n\nOpponent possession\u2014draws an exclusion on Alida Keet, Santa Cruz man-down. Strong defense, shot clock violation forced by Mary Suarez-Abraham pressuring the ball.\n\nFinal possession, Santa Cruz. Inaya Stojanovic controls it at half-pool, passes up to Isabella, who finds Sage. Sage holds, draws a foul, clock winding down\u2014Sage to Sequoia, who lobs the goalie\u2014Goal! Sequoia Drake at the buzzer, Sage with the assist.\n\n\nSage passes to marry who shoots and scores\nSequoyah passes to Sage who scores",
+  "formatted_events": "[Jul 18, 01:08 PM] Goal by Charlotte Morrow!\n[Jul 18, 01:08 PM] Assist by Mary Suarez-Abraham!\n[Jul 18, 01:08 PM] Field Block by Mary Suarez-Abraham!\n[Jul 18, 01:08 PM] Goal by Alida Keet!\n[Jul 18, 01:08 PM] Assist by Sequoia Drake!\n[Jul 18, 01:08 PM] Assist by Keira 'Kiki' Burke!\n[Jul 18, 01:08 PM] Sprint Won by Keira 'Kiki' Burke!",
+  "stats": {
+    "Mary Suarez-Abraham": {
+      "goal": 0,
+      "assist": 1,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 1,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Sage Steller-Croll": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Violet Rubin": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Charlotte Morrow": {
+      "goal": 1,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Sequoia Drake": {
+      "goal": 0,
+      "assist": 1,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Isabella Bridi-Milligan": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Elizabeth Penny": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Keira 'Kiki' Burke": {
+      "goal": 0,
+      "assist": 1,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 1
+    },
+    "Kate Solomon": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Inaya Stojanovic": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Alida Keet": {
+      "goal": 1,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Grace Graessle": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    },
+    "Ava Johnson": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "fouls_drawn": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0
+    }
+  },
+  "events_list": [
+    {
+      "player": "Keira 'Kiki' Burke",
+      "action": "sprint_won",
+      "timestamp": "2025-07-18 13:08:01.276047"
+    },
+    {
+      "player": "Keira 'Kiki' Burke",
+      "action": "assist",
+      "timestamp": "2025-07-18 13:08:01.276084"
+    },
+    {
+      "player": "Sequoia Drake",
+      "action": "assist",
+      "timestamp": "2025-07-18 13:08:01.276090"
+    },
+    {
+      "player": "Alida Keet",
+      "action": "goal",
+      "timestamp": "2025-07-18 13:08:01.276094"
+    },
+    {
+      "player": "Mary Suarez-Abraham",
+      "action": "field_block",
+      "timestamp": "2025-07-18 13:08:34.807494"
+    },
+    {
+      "player": "Mary Suarez-Abraham",
+      "action": "assist",
+      "timestamp": "2025-07-18 13:08:34.807522"
+    },
+    {
+      "player": "Charlotte Morrow",
+      "action": "goal",
+      "timestamp": "2025-07-18 13:08:34.807526"
+    }
+  ]
+}

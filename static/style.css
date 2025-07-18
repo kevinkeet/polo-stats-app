@@ -1,0 +1,227 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+.page-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 1800px;
+    margin: 0 auto;
+}
+.main-content {
+    flex: 2;
+    min-width: 700px;
+}
+.sidebar-content {
+    flex: 1;
+    min-width: 300px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #005a9c;
+    width: 100%;
+}
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.data-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    text-align: left;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    white-space: nowrap;
+}
+th {
+    background-color: #eaf2f8;
+}
+td a {
+    text-decoration: none;
+    color: #0d6efd;
+    font-weight: 500;
+}
+td a:hover {
+    text-decoration: underline;
+}
+form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+form input, form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+.submit-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.submit-button:hover {
+    background-color: #0056b3;
+}
+.transcript {
+    max-height: 400px;
+    overflow-y: auto;
+    background-color: #fafafa;
+    border: 1px solid #eee;
+    padding: 15px;
+    border-radius: 4px;
+}
+.transcript pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: monospace;
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+}
+.game-list {
+    list-style-type: none;
+    padding: 0;
+}
+.game-log-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.game-link {
+    flex-grow: 1;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: 500;
+}
+.game-link:hover {
+    background-color: #e9ecef;
+}
+.delete-form {
+    margin-left: 10px;
+}
+.delete-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.delete-button:hover {
+    background-color: #c82333;
+}
+.back-link {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #007bff;
+}
+.back-link:hover {
+    text-decoration: underline;
+}
+.player-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.player-card-photo {
+    flex-basis: 250px;
+    flex-grow: 1;
+}
+.player-card-photo img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+}
+.player-card-info {
+    flex-basis: 300px;
+    flex-grow: 2;
+}
+.player-card-info h2 {
+    margin-top: 0;
+}
+.player-card-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+.player-card-info li {
+    font-size: 1.1em;
+    padding: 8px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+.player-stats-table th, .player-stats-table td {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.form-section-header {
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+.audio-recorder {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+.audio-recorder button {
+    width: auto;
+    flex-grow: 1;
+}
+#audioPlayback {
+    flex-grow: 2;
+}
+.calendar-container iframe {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+.embedded-app iframe {
+    width: 100%;
+    height: 50vh;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}

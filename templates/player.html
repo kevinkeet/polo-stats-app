@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ player.name }} - Player Card</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v={{ version }}">
+</head>
+<body>
+    <header>
+        <h1>Player Card</h1>
+        <a href="{{ url_for('index') }}" class="back-link">&larr; Back to All Stats</a>
+    </header>
+    <main class="container">
+        <div class="card player-card">
+            <div class="player-card-photo">
+                <img src="{{ player.picture }}" alt="Photo of {{ player.name }}" onerror="this.onerror=null;this.src='https.placehold.co/300x400/E2E8F0/4A5568?text=Image+Not+Found';">
+            </div>
+            <div class="player-card-info">
+                <h2>{{ player.name }}</h2>
+                <ul>
+                    <li><strong>School:</strong> {{ player.get('school', 'N/A') }}</li>
+                    <li><strong>Club:</strong> {{ player.get('club', 'N/A') }}</li>
+                    <li><strong>Height:</strong> {{ player.get('height', 'N/A') }}</li>
+                    <li><strong>Handedness:</strong> {{ player.get('handedness', 'N/A') }}</li>
+                    <li><strong>Position:</strong> {{ player.get('position', 'N/A') }}</li>
+                    <li><strong>Favorite Ice Cream:</strong> {{ player.get('favorite_ice_cream', 'N/A') }}</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Cumulative Season Stats</h2>
+            <div class="table-container">
+                <table class="player-stats-table">
+                    <thead>
+                        <tr>
+                            {% for category in stat_categories %}
+                                <th>{{ category.replace('_', ' ').title() }}s</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            {% for category in stat_categories %}
+                                <td>{{ stats.get(category, 0) }}</td>
+                            {% endfor %}
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

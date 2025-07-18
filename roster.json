@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Maya Cruz",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Maya",
+    "school": "North Bay High",
+    "club": "Wave Riders WPC",
+    "height": "5' 8\"",
+    "handedness": "Right",
+    "position": "Attacker",
+    "favorite_ice_cream": "Mint Chocolate Chip"
+  },
+  {
+    "name": "Jenna Carter",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Jenna",
+    "school": "Ocean View High",
+    "club": "Wave Riders WPC",
+    "height": "5' 9\"",
+    "handedness": "Left",
+    "position": "Utility",
+    "favorite_ice_cream": "Cookie Dough"
+  },
+  {
+    "name": "Zoe Ramirez",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Zoe",
+    "school": "Harbor Prep",
+    "club": "Wave Riders WPC",
+    "height": "5' 7\"",
+    "handedness": "Right",
+    "position": "Center",
+    "favorite_ice_cream": "Strawberry"
+  },
+  {
+    "name": "Chloe Chen",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Chloe",
+    "school": "North Bay High",
+    "club": "Wave Riders WPC",
+    "height": "5' 10\"",
+    "handedness": "Right",
+    "position": "Defender",
+    "favorite_ice_cream": "Chocolate"
+  },
+  {
+    "name": "Piper Shaw",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Piper",
+    "school": "Ocean View High",
+    "club": "Wave Riders WPC",
+    "height": "5' 6\"",
+    "handedness": "Right",
+    "position": "Attacker",
+    "favorite_ice_cream": "Vanilla Bean"
+  },
+  {
+    "name": "Bella Rossi",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Bella",
+    "school": "Harbor Prep",
+    "club": "Wave Riders WPC",
+    "height": "5' 8\"",
+    "handedness": "Right",
+    "position": "Utility",
+    "favorite_ice_cream": "Rocky Road"
+  },
+  {
+    "name": "Lexi Grant",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Lexi",
+    "school": "North Bay High",
+    "club": "Wave Riders WPC",
+    "height": "5' 9\"",
+    "handedness": "Right",
+    "position": "Goalie",
+    "favorite_ice_cream": "Pistachio"
+  },
+  {
+    "name": "Riley 'Rye' O'Connell",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Riley",
+    "school": "Ocean View High",
+    "club": "Wave Riders WPC",
+    "height": "5' 7\"",
+    "handedness": "Left",
+    "position": "Attacker",
+    "favorite_ice_cream": "Cookies and Cream"
+  },
+  {
+    "name": "Sofia Petrova",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Sofia",
+    "school": "Harbor Prep",
+    "club": "Wave Riders WPC",
+    "height": "5' 11\"",
+    "handedness": "Right",
+    "position": "Center Defender",
+    "favorite_ice_cream": "Coffee"
+  },
+  {
+    "name": "Nora Singh",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Nora",
+    "school": "North Bay High",
+    "club": "Wave Riders WPC",
+    "height": "5' 8\"",
+    "handedness": "Right",
+    "position": "Attacker",
+    "favorite_ice_cream": "Butter Pecan"
+  },
+  {
+    "name": "Aria Kim",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Aria",
+    "school": "Ocean View High",
+    "club": "Wave Riders WPC",
+    "height": "5' 10\"",
+    "handedness": "Right",
+    "position": "Utility",
+    "favorite_ice_cream": "Chocolate Fudge Brownie"
+  },
+  {
+    "name": "Eva Rostova",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Eva",
+    "school": "Harbor Prep",
+    "club": "Wave Riders WPC",
+    "height": "5' 9\"",
+    "handedness": "Right",
+    "position": "Defender",
+    "favorite_ice_cream": "Black Cherry"
+  },
+  {
+    "name": "Luna Diaz",
+    "picture": "https://placehold.co/300x400/E2E8F0/4A5568?text=Luna",
+    "school": "North Bay High",
+    "club": "Wave Riders WPC",
+    "height": "5' 7\"",
+    "handedness": "Right",
+    "position": "Attacker",
+    "favorite_ice_cream": "Neapolitan"
+  }
+]
