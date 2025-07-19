@@ -1,0 +1,279 @@
+{
+  "id": "b0176a62-e1dd-4b20-bd19-9ae472fd4b07",
+  "opponent": "testing5",
+  "date": "2025-07-19",
+  "events_list": [
+    {
+      "player": "Keira Burke",
+      "action": "sprint_won",
+      "timestamp": "2025-07-19 09:36:54.047471"
+    },
+    {
+      "player": "Kate Solomon",
+      "action": "shot",
+      "timestamp": "2025-07-19 09:36:54.047498"
+    },
+    {
+      "player": "Grace Graessle",
+      "action": "steal",
+      "timestamp": "2025-07-19 09:36:54.047502"
+    },
+    {
+      "player": "Violet Rubin",
+      "action": "goal",
+      "timestamp": "2025-07-19 09:36:54.047504"
+    },
+    {
+      "player": "Violet Rubin",
+      "action": "shot",
+      "timestamp": "2025-07-19 09:36:54.047506"
+    },
+    {
+      "player": "Ava Johnson",
+      "action": "ejections_drawn",
+      "timestamp": "2025-07-19 09:36:54.047507"
+    },
+    {
+      "player": "Charlotte Morrow",
+      "action": "shot",
+      "timestamp": "2025-07-19 09:36:54.047509"
+    },
+    {
+      "player": "Mary Suarez-Abraham",
+      "action": "save",
+      "timestamp": "2025-07-19 09:36:54.047511"
+    },
+    {
+      "player": "Elizabeth Penny",
+      "action": "field_block",
+      "timestamp": "2025-07-19 09:36:54.047513"
+    },
+    {
+      "player": "Keira Burke",
+      "action": "steal",
+      "timestamp": "2025-07-19 09:36:54.047515"
+    },
+    {
+      "player": "Keira Burke",
+      "action": "shot",
+      "timestamp": "2025-07-19 09:36:54.047517"
+    },
+    {
+      "player": "Inaya Stojanovic",
+      "action": "rebound",
+      "timestamp": "2025-07-19 09:36:54.047518"
+    }
+  ],
+  "formatted_events": "[Jul 19, 09:36 AM] Rebound by Inaya Stojanovic!\n[Jul 19, 09:36 AM] Shot by Keira Burke!\n[Jul 19, 09:36 AM] Steal by Keira Burke!\n[Jul 19, 09:36 AM] Field Block by Elizabeth Penny!\n[Jul 19, 09:36 AM] Save by Mary Suarez-Abraham!\n[Jul 19, 09:36 AM] Shot by Charlotte Morrow!\n[Jul 19, 09:36 AM] Ejections Drawn by Ava Johnson!\n[Jul 19, 09:36 AM] Shot by Violet Rubin!\n[Jul 19, 09:36 AM] Goal by Violet Rubin!\n[Jul 19, 09:36 AM] Steal by Grace Graessle!\n[Jul 19, 09:36 AM] Shot by Kate Solomon!\n[Jul 19, 09:36 AM] Sprint Won by Keira Burke!",
+  "game_summary": "Violet Rubin's two goals powered the team to victory, but the real star was Keira Burke, whose speed earned her a sprint win, two steals, and a powerful shot that kept the pressure on the opponents.  Solid defensive contributions from the rest of the team, including multiple blocks and saves, secured the win.",
+  "stats": {
+    "Mary Suarez-Abraham": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 1,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Sage Steller-Croll": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Violet Rubin": {
+      "goal": 1,
+      "assist": 0,
+      "shot": 1,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Charlotte Morrow": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 1,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Sequoia Drake": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Isabella Bridi-Milligan": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Elizabeth Penny": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 1,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Keira 'Kiki' Burke": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Kate Solomon": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 1,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Inaya Stojanovic": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 1,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Alida Keet": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Grace Graessle": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 1,
+      "ejections_drawn": 0,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    },
+    "Ava Johnson": {
+      "goal": 0,
+      "assist": 0,
+      "shot": 0,
+      "steal": 0,
+      "ejections_drawn": 1,
+      "rebound": 0,
+      "turnover": 0,
+      "field_block": 0,
+      "ejection_committed": 0,
+      "save": 0,
+      "sprint_won": 0,
+      "5_meter_taken": 0,
+      "5_meter_made": 0,
+      "5_meter_blocked": 0
+    }
+  }
+}

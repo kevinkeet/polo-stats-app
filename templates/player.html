@@ -9,22 +9,23 @@
 <body>
     <header>
         <h1>Player Card</h1>
-        <a href="{{ url_for('index') }}" class="back-link">&larr; Back to All Stats</a>
+        <a href="{{ url_for('index', team_id=team_id) }}" class="back-link">&larr; Back to Team Page</a>
     </header>
     <main class="container">
         <div class="card player-card">
             <div class="player-card-photo">
-                <img src="{{ player.picture }}" alt="Photo of {{ player.name }}" onerror="this.onerror=null;this.src='https.placehold.co/300x400/E2E8F0/4A5568?text=Image+Not+Found';">
+                <img src="{{ player.picture or 'https://placehold.co/300x400/E2E8F0/4A5568?text=No+Photo' }}" alt="Photo of {{ player.name }}" onerror="this.onerror=null;this.src='https://placehold.co/300x400/E2E8F0/4A5568?text=Image+Not+Found';">
             </div>
             <div class="player-card-info">
                 <h2>{{ player.name }}</h2>
                 <ul>
-                    <li><strong>School:</strong> {{ player.get('school', 'N/A') }}</li>
-                    <li><strong>Club:</strong> {{ player.get('club', 'N/A') }}</li>
-                    <li><strong>Height:</strong> {{ player.get('height', 'N/A') }}</li>
-                    <li><strong>Handedness:</strong> {{ player.get('handedness', 'N/A') }}</li>
-                    <li><strong>Position:</strong> {{ player.get('position', 'N/A') }}</li>
-                    <li><strong>Favorite Ice Cream:</strong> {{ player.get('favorite_ice_cream', 'N/A') }}</li>
+                    <!-- THIS IS THE FIX: Access attributes directly (e.g., player.school) instead of using .get() -->
+                    <li><strong>School:</strong> {{ player.school or 'N/A' }}</li>
+                    <li><strong>Club:</strong> {{ player.club or 'N/A' }}</li>
+                    <li><strong>Height:</strong> {{ player.height or 'N/A' }}</li>
+                    <li><strong>Handedness:</strong> {{ player.handedness or 'N/A' }}</li>
+                    <li><strong>Position:</strong> {{ player.position or 'N/A' }}</li>
+                    <li><strong>Favorite Ice Cream:</strong> {{ player.favorite_ice_cream or 'N/A' }}</li>
                 </ul>
             </div>
         </div>

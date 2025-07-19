@@ -73,13 +73,18 @@ form label {
     margin-top: 10px;
     font-weight: bold;
 }
-form input, form button {
+form input, form button, form textarea {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
     border-radius: 4px;
     border: 1px solid #ccc;
     box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+form textarea {
+    resize: vertical;
+    min-height: 80px;
 }
 .submit-button {
     background-color: #007bff;
@@ -224,4 +229,60 @@ form input, form button {
     height: 50vh;
     border: 1px solid #ccc;
     border-radius: 8px;
+}
+.game-summary {
+    background-color: #eaf2f8;
+    border-left: 4px solid #007bff;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 4px;
+}
+.game-summary p {
+    margin: 0;
+    font-style: italic;
+    color: #333;
+}
+.team-selection-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.team-link {
+    display: block;
+    padding: 15px;
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+.team-link:hover {
+    background-color: #0056b3;
+}
+.transcript-log {
+    max-height: 500px;
+    overflow-y: auto;
+}
+.transcript-entry {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.transcript-timestamp {
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #6c757d;
+    margin: 0 0 10px 0;
+}
+.transcript-entry pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: monospace;
+    font-size: 14px;
+    color: #333;
+    margin: 0;
 }
